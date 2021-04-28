@@ -1,0 +1,1 @@
+Simple program to create a shopping list from few given products.

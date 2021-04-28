@@ -1,0 +1,1 @@
+Program to printing array values to another array and giving information about it.
